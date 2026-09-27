@@ -1,0 +1,17 @@
+{
+  "name": "Test EHU - Escala Administrativa",
+  "short_name": "Test EHU",
+  "description": "Test de preparación para la OPE 2023-2024 de la UPV/EHU, Escala Administrativa (Grupo C1)",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f2ec",
+  "theme_color": "#1c2b39",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
